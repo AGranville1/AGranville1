@@ -14,7 +14,7 @@ Computer Science
 2. A Counter-Strike inventory tracker. I play a lot of Counter-Strike and want to create an app to keep track of the prices of items in my inventory. I am using Springboot to create a locally hosted h2 database, pulling from the steam api.
 
 #Languages:
-1. Java
+1. <span style="color:blue">Java</span>.Java
 2. C++
 3. JavaScript
 4. HTML
