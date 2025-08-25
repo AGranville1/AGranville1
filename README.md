@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 Computer Science
 
 #Projects:
-1. A MTG collection tracker. Im collecting one of each of the Magic the Gathering basic lands. I want an easy place to keep track of my collection, so I am going to make my own.
+1. A MTG collection tracker. I'm collecting one of each of the Magic The Gathering basic lands. I want an easy place to keep track of my collection, so I am going to make my own.
 2. A Counter-Strike inventory tracker. I play a lot of Counter-Strike and want to create an app to keep track of the prices of items in my inventory. I am using Springboot to create a locally hosted h2 database, pulling from the steam api.
 
 #Languages:
-1. <span style="color:blue">Java</span>.Java
+1. <mark>Java</mark>
 2. C++
 3. JavaScript
 4. HTML
